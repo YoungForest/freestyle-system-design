@@ -1,0 +1,30 @@
+{
+  "name": "freestyle-system-design",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "vuepress build",
+    "dev": "vuepress dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YoungForest/freestyle-system-design.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YoungForest/freestyle-system-design/issues"
+  },
+  "homepage": "https://github.com/YoungForest/freestyle-system-design#readme",
+  "dependencies": {
+    "markdown-it": "^8.4.1",
+    "markdown-it-emoji": "^1.4.0",
+    "markdown-it-katex": "^2.0.3"
+  },
+  "devDependencies": {
+    "vuepress": "^1.8.2"
+  }
+}
