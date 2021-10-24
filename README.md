@@ -22,6 +22,8 @@
 - [6.824: Distributed Systems](https://pdos.csail.mit.edu/6.824/)
 - [残酷系统设计群](https://github.com/refinedcoding/CruelSystem)
 - [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview) (付费课程)
+- 群友推荐资源
+    - [asynchronous-task-scheduling-at-dropbox](https://dropbox.tech/infrastructure/asynchronous-task-scheduling-at-dropbox)
 
 
 
